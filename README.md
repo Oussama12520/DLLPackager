@@ -9,7 +9,8 @@
            INTEGRATION AND DISTRIBUTION GUIDE
 ============================================================
 
-This document summarizes the steps to create a single, standalone executable (EXE) that runs with administrator rights.
+This document summarizes the steps to create a single,
+standalone executable (EXE) that runs with administrator rights.
 
 1. DLL INTEGRATION (Costura.Fody)
 --------------------------------------
